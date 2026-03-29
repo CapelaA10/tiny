@@ -23,7 +23,7 @@ struct Token {
   TokenType type;
   std::string value;
   double number;
-  
+
   void print();
 };
 
