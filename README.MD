@@ -7,7 +7,7 @@ A small, self-contained interpreted language engine built as a learning challeng
 - expression evaluation
 - simple file-based input
 
-This repository is not a production compiler — it’s a compact sandbox for understanding the full language pipeline (lexer, parser, AST, interpreter) in under 200 lines.
+This repository is not a production compiler — it’s a compact sandbox for understanding the full language pipeline (lexer, parser, AST, interpreter).
 
 ## Getting started
 
